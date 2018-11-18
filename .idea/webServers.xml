@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="50f0f01c-fa5f-4c8b-a146-7f6d2a6a0353" name="QG" url="http://10.88.3.61">
+        <fileTransfer host="10.88.3.61" port="22" rootFolder="/home/yfgu" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
